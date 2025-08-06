@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#!/bin/bash
-
 # mac@SSA
 # JSS Machine Record Population Script
 # Dheeraj Vasishta, Fixed Solutions/ISSI/Leidos/SSA, 2025
@@ -10,6 +8,7 @@
 
 ### RELEASE NOTES ###
 # Release History:
+# - 2.2:  Minor optimizations.
 # - 2.1:  Added a step to confirm whether anyone is logged in before continuing.
 # - 2.0:  Updated script to fetch the user's PIN from their PIV card, thereby ensuring accurate API lookups.
 # - 1.0.1:  Minor cleanup and refinement.
