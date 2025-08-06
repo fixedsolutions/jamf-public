@@ -6,7 +6,7 @@
 # JSS Machine Record Population Script
 # Dheeraj Vasishta, Fixed Solutions/ISSI/Leidos/SSA, 2025
 # fixed.works  |  github.com/fixedsolutions
-# Version 2.1
+# Version 2.2
 
 ### RELEASE NOTES ###
 # Release History:
